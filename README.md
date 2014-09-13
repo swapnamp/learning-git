@@ -1,4 +1,5 @@
 learning-git
 ============
-echo "hello";
-echo "helloOOOOOOOOOOOOO";
+<?php 
+echo "Welcome to Git.";
+?>
